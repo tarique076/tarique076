@@ -1,5 +1,5 @@
 <h1  align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tarique Anwar</h1>
-<a href="#"><img width="60%" height="auto" align="center" src="https://recruit-c7ff.kxcdn.com/recruit/wp-content/uploads/2019/09/java-dev-thumbnail.png" height="175px"/></a>
+<a href="#"><img width="50%" height="auto" align="center" margin="auto" src="https://recruit-c7ff.kxcdn.com/recruit/wp-content/uploads/2019/09/java-dev-thumbnail.png" height="175px"/></a>
 <h3 align="center">A Java Backend Developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tarique076&label=Profile%20views&color=0e75b6&style=flat" alt="tarique076" /> </p>
