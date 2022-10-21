@@ -12,8 +12,9 @@
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
 - 📫 How to reach me 👉 **anwartarique408@gmail.com**
+- <box-icon type='logo' name='linkedin-square'></box-icon> 👉 <a href="www.linkedin.com/in/tarique-anwar-9667761b1"> Tarique Anwar </a>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://tarique076.github.io/)
 
 - 📄 Know about my experiences 👉 [Resume]()
 
