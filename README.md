@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://tarique076.github.io/" target="_blank" > [My Portfolio] </a>
 
-- 📄 Know about my experiences 👉<a href="https://drive.google.com/file/d/1oFBQx_MX36EjJCzk3vCOOD1VyLPKaps3/view?usp=sharing" target="_blank"> [Resume]</a>
+- 📄 Know about my experiences 👉<a href="https://drive.google.com/file/d/1E18qIp40638fD45ylt-BakYb_cWnwufR/view?usp=sharing" target="_blank"> [Resume]</a>
 
 - ⚡ Fun fact about me 👉 I like bodybuilding.
 
