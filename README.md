@@ -34,7 +34,10 @@
 <h2 align="left">📊 My Github Stats</h2>
    <br/>   
     <p align="center">      
-  <a href="https://github.com/tarique076/github-readme-stats"><img alt="tarique076 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarique076&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/tarique076/github-readme-stats">
+<!--    <img alt="tarique076 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarique076&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> -->
+   <img alt="tarique076 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarique076&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+ </a>
       </p>      
      <br/>
    <p align="center">
