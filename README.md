@@ -51,7 +51,7 @@
      <p align="center">                                                                                                 
     <a href="https://github.com/tarique076/github-readme-stats">
 <!--      <img alt="tarique076 Github Stats" src="https://github-readme-stats.vercel.app/api?username=tarique076&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117" alt="tarique076" /> -->
-          <img alt="tarique076 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tarique076&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="tarique076" />
+          <img alt="tarique076 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tarique076&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="tarique076" />
  </a>
     </p>                                                                 
  <h6 align="center"> 
