@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on ** Core JAVA.**
 
-- 🌱 I’m currently learning **Java Backend Development at Masai School.**
+- 🌱 I’m currently working as a Tech Intern (Software Development) **at Salesken.ai.**
 
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
