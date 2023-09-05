@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on ** Core JAVA.**
 
-- 🌱 I’m currently working as a Tech Intern (Software Development) **at Salesken.ai.**
+- 🌱 Worked as a Tech Intern (Software Development) **at Salesken.ai.**
 
-- 👯 I’m looking to collaborate on **LinkedIn & GitHub**
+- 👯 Looking to collaborate on **LinkedIn & GitHub**
 
 - 📫 How to reach me 👉 **anwartarique408@gmail.com** || <a href="https://www.linkedin.com/in/tarique-anwar-9667761b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tarique-anwar-9667761b1/" height="30" width="40" /></a> 
 
