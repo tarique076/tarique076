@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on ** Core JAVA.**
 
-- 🌱 Worked as a Tech Intern (Software Development) **at Salesken.ai.**
+- 🌱 Worked as a Tech Intern (Software Development) **at Salesken.ai.**   **(Mar 2023 to Aug 2023)**
 
 - 👯 Looking to collaborate on **LinkedIn & GitHub**
 
