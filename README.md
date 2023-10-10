@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tarique076&label=Profile%20views&color=0e75b6&style=flat" alt="tarique076" /> </p>
 
 
-- 🔭 I’m currently working on ** Core JAVA.**
+- 🔭 I’m currently working on ** SpringBoot **
 
 - 🌱 Worked as a Tech Intern (Software Development) **at Salesken.ai.**     **(Mar 2023 to Aug 2023)**
 
