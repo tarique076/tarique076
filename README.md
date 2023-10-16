@@ -11,7 +11,7 @@
 
 - 👯 Looking to collaborate on **LinkedIn & GitHub**
 
-- 📫 How to reach me 👉 **anwartarique408@gmail.com** || <a href="https://www.linkedin.com/in/tarique-anwar-9667761b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tarique-anwar-9667761b1/" height="30" width="40" /></a> 
+- 📫 How to reach me 👉 **anwartarique408@gmail.com** || <a href="https://www.linkedin.com/in/tarique-anwar-9667761b1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tarique-anwar-9667761b1/" height="30" width="40" /></a> 
 
 - 👨‍💻 All of my projects are available at <a href="https://tarique076.github.io/" target="_blank" > [My Portfolio] </a>
 
