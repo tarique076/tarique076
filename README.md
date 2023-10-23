@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences 👉<a href="https://drive.google.com/file/d/1E18qIp40638fD45ylt-BakYb_cWnwufR/view?usp=sharing" target="_blank"> [Resume]</a>
 
-- ⚡ Fun fact about me 👉 I like bodybuilding.
+- ⚡ Fun fact about me 👉 I like bodybuilding, and playing basketball.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
